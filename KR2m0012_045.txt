@@ -3,7 +3,7 @@
 #+DATE: 2015-08-24 22:49:56.641005
 #+PROPERTY: ID KR2m0012
 #+PROPERTY: BASEEDITION WYG    
-#+PROPERTY: JUAN 上論
+#+PROPERTY: JUAN 上諭
 <pb:KR2m0012_WYG_045-1a>¶
 　　　康熙六十年四月初六日奉¶
 㫖朕披覽史冊於前代帝王每加留意書生輩但知譏評¶
